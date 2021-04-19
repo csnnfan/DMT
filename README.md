@@ -1,5 +1,5 @@
 # DMT
-#Abstract
+# Abstract
 Existing trackers usually exploit robust features or online updating mechanisms to deal with target variations which is a key challenge in visual tracking. However, the features being robust to
 variations remain little spatial information, and existing online updating methods are prone to overfitting. In this paper, we propose a dual-margin model for robust and accurate visual tracking.
 The dual-margin model comprises an intra-object margin between different target appearances and an inter-object margin between the target and the background. The proposed method is able to not
