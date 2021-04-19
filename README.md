@@ -14,7 +14,7 @@ robust tracking performance on five public datasets while running in real-time. 
 
 2. Run `run_demo.m` to test a demo sequence. 
 
-# Ciation
+# Citation
 If you find the code helpful in your research, please consider citing:
 
 ```
