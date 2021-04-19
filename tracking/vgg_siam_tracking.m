@@ -10,7 +10,6 @@ function [results] = vgg_siam_tracking(config)
     display = config.display;
     showtem = config.showtem;
     num_appearances = config.num_appearances;
-    tar_threshold = config.tar_threshold;
     [seq, init_frame] = get_sequence_info(config.seq);
     config = rmfield(config, 'seq');
     if isempty(init_frame)
